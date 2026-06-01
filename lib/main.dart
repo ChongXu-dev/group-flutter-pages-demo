@@ -33,6 +33,8 @@ static const String projectSlogan = '用 Flutter Web 展示我们的创意与协
     TeamMember(role: '组员 B', name: '成员 B', task: '补充成员介绍卡片'),
     TeamMember(role: '组员 C', name: '成员 C', task: '补充项目功能列表'),
     TeamMember(role: '组员 D', name: '成员 D', task: '补充发布说明和访问地址'),
+    TeamMember(role: '组员 E', name: '成员 E', task: 'UI 优化'),
+    TeamMember(role: '组员 F', name: '成员 F', task: '仓库 README 文档编写与维护'),
   ];
 
   static const List<String> features = [
