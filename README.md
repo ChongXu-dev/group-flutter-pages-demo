@@ -33,11 +33,13 @@ build/web/
 
 ## 组员任务入口
 
-4 名组员可以分别修改 `lib/main.dart` 中的不同位置：
+6 名组员可以分别修改 `lib/main.dart` 中的不同位置：
 
 1. 组员 A：修改 `projectTitle` 和 `projectSlogan`。
 2. 组员 B：修改 `members`，补充真实姓名和分工。
 3. 组员 C：修改 `features`，补充项目功能。
 4. 组员 D：修改 `releaseNotes`，补充部署说明和访问地址。
+5. 组员 E：UI 优化。
+6. 组员 F：仓库 README 文档编写与维护。
 
 每名组员都应该在自己的分支上修改，提交 commit，然后向组长发起 Pull Request。
