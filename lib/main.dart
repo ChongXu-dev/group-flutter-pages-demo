@@ -46,7 +46,7 @@ class TeamHomePage extends StatelessWidget {
     '源码维护分支：main 分支用于存放项目源代码，所有开发工作基于此分支进行。',
     '构建产物分支：Flutter Web 编译产物发布到 gh-pages 分支，由组长统一管理。',
     '部署执行主体：组长负责合并 PR 后执行部署命令，确保发布流程规范。',
-    'GitHub Pages 访问地址：https://OWNER.github.io/group-flutter-pages-demo（OWNER 替换为组长 GitHub 用户名）',
+    'GitHub Pages 访问地址：https://primer496.github.io/group-flutter-pages-demo',
   ];
 
   @override
